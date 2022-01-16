@@ -1,4 +1,5 @@
 Universal motherboard designed for sensor based, monitoring and home automation.
+
 •	microcontroller: ESP32- WROOM;
 •	support wireless interfaces: WiFi/Bluetooth;
 •	3 I2C interfaces;
