@@ -1,6 +1,6 @@
 # [](https://github.com/climateguard/CG_Minis#official-library-for-cg_mini-by-climateguard)Official library for CG_Mini by ClimateGuard
 
-**Universal motherboard designed for sensor based, monitoring and home automation.**   
+**Universal electronics platform designed for sensor based, monitoring and home automation.**   
 
 -	microcontroller: ESP32- WROOM;
 -	support wireless interfaces: WiFi/Bluetooth;
